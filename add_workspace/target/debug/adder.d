@@ -1,0 +1,1 @@
+/home/gxr/Projects/personal/rust_docs/add_workspace/target/debug/adder: /home/gxr/Projects/personal/rust_docs/add_workspace/add_one/src/lib.rs /home/gxr/Projects/personal/rust_docs/add_workspace/adder/src/main.rs

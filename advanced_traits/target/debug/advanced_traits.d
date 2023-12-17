@@ -1,0 +1,1 @@
+/home/gxr/Projects/personal/rust_docs/advanced_traits/target/debug/advanced_traits: /home/gxr/Projects/personal/rust_docs/advanced_traits/src/lib.rs /home/gxr/Projects/personal/rust_docs/advanced_traits/src/main.rs
